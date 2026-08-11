@@ -4,7 +4,9 @@
   </a>
 </div>
 
-<img src="https://www.pinterest.com/pin/sailor-moon--534380312014260810/" width="500">
+<p align="center">
+<img width="400" height="200" alt="luna-sailor-moon" src="https://github.com/user-attachments/assets/7b776ab3-4985-4092-af00-c65cf9d9a756" />
+
 
 #
 
