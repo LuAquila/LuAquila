@@ -7,10 +7,11 @@
 <p align="center">
 <img width="400" height="200" alt="luna-sailor-moon" src="https://github.com/user-attachments/assets/7b776ab3-4985-4092-af00-c65cf9d9a756" />
 
+<div align="center">
+  
+# Sobre Mim
 
-#
-
-<p align="center">Estudante de Análise e Desenvolvimento de Sistemas e Técnico em Desenvolvimento de Sistemas. Atualmente, estudo e aprimoro meus conhecimentos em Java, Python, HTML e CSS, buscando constantemente evoluir na área de tecnologia. Tenho interesse em desenvolvimento de software e em transformar meus conhecimentos em soluções práticas.
+<p >Estudante de Análise e Desenvolvimento de Sistemas e Técnico em Desenvolvimento de Sistemas. Atualmente, estudo e aprimoro meus conhecimentos em Java, Python, HTML e CSS, buscando constantemente evoluir na área de tecnologia. Tenho interesse em desenvolvimento de software e em transformar meus conhecimentos em soluções práticas.
 
   
 
