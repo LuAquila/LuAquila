@@ -1,3 +1,17 @@
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF00F6&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Bem+Vindo+Ao+Meu+Perfil!+%E2%8A%B9+" alt="Typing SVG">
+  </a>
+</div>
+
+<img src="https://www.pinterest.com/pin/sailor-moon--534380312014260810/" width="500">
+
+#
+
+<p align="center">Estudante de Análise e Desenvolvimento de Sistemas e Técnico em Desenvolvimento de Sistemas. Atualmente, estudo e aprimoro meus conhecimentos em Java, Python, HTML e CSS, buscando constantemente evoluir na área de tecnologia. Tenho interesse em desenvolvimento de software e em transformar meus conhecimentos em soluções práticas.
+
+  
+
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LuAquila/LuAquila/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LuAquila/LuAquila/output/github-contribution-grid-snake-dark.svg">
